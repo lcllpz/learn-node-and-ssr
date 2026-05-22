@@ -2,10 +2,10 @@ import type { Metadata } from "next";
 import "./globals.css";
 import Header from "@/components/Header";
 import Footer from "@/components/Footer";
-import { Toaster } from "@/components/ui/toaster"
+import { Toaster } from "@/components/ui/toaster";
 
 export const metadata: Metadata = {
-  title: "DUYI Store",
+  title: "Shopp Store",
   description: "A simple store",
 };
 

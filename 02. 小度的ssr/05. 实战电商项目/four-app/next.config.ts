@@ -7,6 +7,10 @@ const nextConfig: NextConfig = {
       {
         protocol: 'https',
         hostname: 'duyi-resource.oss-cn-beijing.aliyuncs.com'
+      },
+      {
+        protocol: 'https',
+        hostname: 'raw.githubusercontent.com'
       }
     ]
   }
